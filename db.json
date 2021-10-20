@@ -1,0 +1,137 @@
+{
+  "cities": [
+    {
+      "id": 1,
+      "name": "Tokyo",
+      "description": "Tokyo (東京, Tōkyō) is Japan’s capital and the world’s most populous metropolis. It is also one of Japan’s 47 prefectures, consisting of 23 central city wards and multiple cities, towns and villages west of the city center. The Izu and Ogasawara Islands are also part of Tokyo.",
+      "shortDescription": "The world's best city, found in translation",
+      "image": "https://wp.getgolo.com/wp-content/uploads/2019/10/photo-1490806843957-31f4c9a91c65-1.jpeg",
+      "latitude": "35.652832",
+      "longitude": "139.839478",
+      "currency": "Yen",
+      "language": "Japanese",
+      "thumbnail": "https://wp.getgolo.com/city-guide/wp-content/uploads/2019/10/photo-1532746063463-7832a51f1ddc-540x740.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "Paris",
+      "description": "Second City? Not by our count. It’s world-class in so many categories magnificent architecture, stunning museums, brilliant chefs, a massive brewing scene, and so much to do that you’ll never see it all. Scratch the surface in the Loop and on the Gold Coast.",
+      "shortDescription": "The city of love",
+      "image": "https://wp.getgolo.com/wp-content/uploads/2019/09/paris-city.png",
+      "latitude": "48.864716",
+      "longitude": "2.349014",
+      "currency": "Euro",
+      "language": "French",
+      "thumbnail": "https://wp.getgolo.com/city-guide/wp-content/uploads/2019/10/photo-1511739001486-6bfe10ce785f-540x740.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "New York",
+      "description": "To know “The City” like a local might still be the greatest badge of honor for travelers. But take a breath: you won’t be able to cover the countless museums, galleries, restaurants, watering holes—and, yes, $1 pizza slices—all in one visit, but that’s the good news.",
+      "shortDescription": "The entire world in one place",
+      "image": "https://wp.getgolo.com/wp-content/uploads/2019/10/photo-1502104034360-73176bb1e92e.jpeg",
+      "latitude": "40.73061",
+      "longitude": "-73.935242",
+      "currency": "Dollar",
+      "language": "English",
+      "thumbnail": "https://wp.getgolo.com/city-guide/wp-content/uploads/2019/10/photo-1529974019031-b0cd38fd54fc-540x740.jpeg"
+    },
+    {
+      "id": 4,
+      "name": "Los Angeles",
+      "description": "From the Hollywood hills to the Venice Beach boardwalk, Los Angeles is a cinematic city of dreams, where every sunset feels like a scene from a movie. The center of the entertainment world",
+      "shortDescription": "Cinematic city of dreams",
+      "image": "https://wp.getgolo.com/wp-content/uploads/2019/10/photo-1504750702121-4dc5b9a09402.jpeg",
+      "latitude": "34.052235",
+      "longitude": "-118.243683",
+      "currency": "Dollar",
+      "language": "English",
+      "thumbnail": "https://wp.getgolo.com/city-guide/wp-content/uploads/2019/10/photo-1504750702121-4dc5b9a09402-540x740.jpeghttps://wp.getgolo.com/city-guide/wp-content/uploads/2019/10/photo-1504750702121-4dc5b9a09402-540x740.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "London",
+      "description": "London is as much about innovation as tradition; it’s a place that’s impossible to finish discovering, where the promise of something new is always in the air. Across the Thames River, the London Eye observation wheel provides panoramic views of the South Bank cultural complex, and the entire city.",
+      "shortDescription": "Where the pubs are as old as the monuments",
+      "image": "https://wp.getgolo.com/wp-content/uploads/2019/10/photo-1500380804539-4e1e8c1e7118.jpeg",
+      "latitude": "51.509865",
+      "longitude": "-0.1180924",
+      "currency": "Pound",
+      "language": "English",
+      "thumbnail": "https://wp.getgolo.com/city-guide/wp-content/uploads/2019/10/photo-1454793147212-9e7e57e89a4f-540x740.jpeg"
+    },
+    {
+      "id": 6,
+      "name": "Barcelona",
+      "description": "Barcelona is a city full of wonder and beauty, where there’s a pronounced passion for life, food, culture, and of course, architecture. Where else can you surf in the morning, do a master tour of Gaudí’s surreal buildings (the Sagrada Familia and the Parc Güell, to name a couple).",
+      "shortDescription": "Just don’t confuse it with Spain",
+      "image": "https://wp.getgolo.com/wp-content/uploads/2019/10/photo-1456132311779-ca4ff6130510.jpeg",
+      "latitude": "41.390205",
+      "longitude": "2.154007",
+      "currency": "Euro",
+      "language": "Spanish",
+      "thumbnail": "https://wp.getgolo.com/city-guide/wp-content/uploads/2019/10/photo-1528744598421-b7b93e12df15-540x740.jpeg"
+    },
+    {
+      "id": 7,
+      "name": "Bangkok",
+      "description": "It isn’t conventional charm that keeps us coming back to Bangkok. The Thai capital doesn’t have an Old Town like Hanoi, the modernity of Hong Kong, or the density of temples like Siem Reap (though few places in Southeast Asia are as spectacular as Wat Arun at sunrise).",
+      "shortDescription": "When in doubt, get a tuk-tuk",
+      "image": "https://wp.getgolo.com/wp-content/uploads/2019/10/photo-1546342279-0a2e8682110e.jpeg",
+      "latitude": "13.736717",
+      "longitude": "100.523186",
+      "currency": "Thai Baht",
+      "language": "Thai",
+      "thumbnail": "https://wp.getgolo.com/city-guide/wp-content/uploads/2019/10/photo-1546228139-87f5312cac42-540x740.jpeg"
+    },
+    {
+      "id": 8,
+      "name": "Amsterdam",
+      "description": "Of all the cities in Europe, Amsterdam is one of the most delightful, its bustling markets, magnificent art galleries, olive-green canals and gabled houses famous throughout the world. One of its special charms is its small-city feel with all the key attractions within easy walking distance.",
+      "shortDescription": "The other canal city",
+      "image": "https://wp.getgolo.com/wp-content/uploads/2019/10/pexels-photo-2856012.jpeg",
+      "latitude": "52.377956",
+      "longitude": "4.89707",
+      "currency": "Euro",
+      "language": "English",
+      "thumbnail": "https://wp.getgolo.com/city-guide/wp-content/uploads/2019/10/photo-1558551649-e44c8f992010-540x740.jpeg"
+    }
+  ],
+  "attractions": [
+    {
+      "id": 1,
+      "name": "Keio Plaza Hotel",
+      "cityId": 1,
+      "category": "Hotel",
+      "group": "Stay",
+      "latitude": "35.689835",
+      "longitude": "139.694407",
+      "images": [
+        "https://wp.getgolo.com/city-guide/wp-content/uploads/2019/10/photo-1551679337-5dca2a92e2aa.jpeg"
+      ],
+      "description": "Just a five-minute walk from Shinjuku Station, the Keio Plaza Hotel is a striking, 47-story tower overlooking the picturesque grounds of the Shinjuku Gyoen Park, a tranquil hideout positioned right in one of the most densely populated corners of the world. Like its neighbouring park, the hotel is a picture of oppositional harmony, where the manic and the peaceful, the new and the traditional meet. Inside the hotel are a number of different accommodation options, including traditional Japanese rooms, more Western-style offerings and, for those looking for something a little different, even Hello Kitty themed rooms.",
+      "address": "2 Chome-2-1 Nishishinjuku, Shinjuku City, Tokyo 160-8330, Japan",
+      "pageUrl": "Instagram.com/keioplaza",
+      "phoneNumber": "81333440111",
+      "videoUrl": "https://youtu.be/6fnKumF7_cg",
+      "star": 5
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "attractionId": 1,
+      "userId": 1,
+      "feedback": "Look good"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "chamomile",
+      "password": "12345",
+      "name": "Curtis",
+      "avatar": "https://images.unsplash.com/photo-1611253468173-165346948a6b?ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDIwfHRvd0paRnNrcEdnfHxlbnwwfHx8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    }
+  ]
+}

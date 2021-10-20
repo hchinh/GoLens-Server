@@ -1,0 +1,39 @@
+@baseUrl = http://localhost:3000/api
+
+# Cities
+
+# @name getAllCities
+GET {{baseUrl}}/cities
+
+###
+
+# @name addNewCity
+POST {{baseUrl}}/cities
+Content-Type: application/json
+
+{
+    "name": "New City",
+    "description": "Test API",
+    "shortDescription": "Test",
+    "image": "sss",
+    "latitude": "12312",
+    "longitude": "132424",
+    "currency": "Yen",
+    "language": "Japanese",
+    "thumbnail": "https://wp.getgolo.com/city-guide/wp-content/uploads/2019/10/photo-1532746063463-7832a51f1ddc-540x740.jpeg"
+}
+
+###
+
+# @name updateCity
+PATCH {{baseUrl}}/cities/9
+Content-Type: application/json
+
+{
+    "name": "Boom"
+}
+
+###
+
+# @name removeCity
+DELETE {{baseUrl}}/cities/9
