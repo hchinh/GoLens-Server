@@ -25,8 +25,9 @@ server.use((req, res, next) => {
   next();
 });
 
+const port = process.env.PORT || 8080;
 // Use default router
 server.use('/api', router);
-server.listen(3000, () => {
+server.listen(port, () => {
   console.log('Server is running');
 });
