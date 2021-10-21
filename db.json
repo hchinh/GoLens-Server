@@ -115,6 +115,196 @@
       "phoneNumber": "81333440111",
       "videoUrl": "https://youtu.be/6fnKumF7_cg",
       "star": 5
+    },
+    {
+      "id": 2,
+      "name": "Hilton Shinjuku",
+      "cityId": 1,
+      "category": "Luxury",
+      "group": "Stay",
+      "latitude": "35.692712",
+      "longitude": "139.691249",
+      "images": [
+        "https://wp.getgolo.com/city-guide/wp-content/uploads/2019/10/photo-1520250497591-112f2f40a3f4.jpeg"
+      ],
+      "description": "A name synonymous with the best of the best in the hotel game, the Hilton Shinjuku is definitely worth adding to your must-visit hotel itinerary if luxury travel is your thing. Directly connected to the Tochomae Subway Station, it’s easily accessible for those wanting to explore everything the city has to offer. The hotel’s hefty 800 rooms are located between the eighth and the 38th floor of the building, serving up unforgettable views of the city skyline. The design is both modern and sleek, but features warm, homely touches such as rich wood furnishings, traditional Japanese shoji screens, and complimentary pyjamas.",
+      "address": "6 Chome-6-2 Nishishinjuku, Shinjuku City, Tokyo 160-0023, Japan",
+      "pageUrl": "instagram.com/hilton",
+      "phoneNumber": "81333445111",
+      "videoUrl": "https://youtu.be/6fnKumF7_cg",
+      "star": 4.7
+    },
+    {
+      "id": 3,
+      "name": "Hotel Koe",
+      "cityId": 1,
+      "category": "Luxury",
+      "group": "Stay",
+      "latitude": "35.662497",
+      "longitude": "139.69908",
+      "images": [
+        "https://wp.getgolo.com/city-guide/wp-content/uploads/2019/10/photo-1495754149474-e54c07932677.jpeg"
+      ],
+      "description": "Sitting on the Harajuku corner of Shibuya, Hotel Koe is much more than just a hotel. It’s also an art hub, a live music space, a bar, café, restaurant, co-working hub and retail store. It was founded by the apparel company Stripe, which is why it’s practically overflowing with street-style cool. The hotel features 10 rooms in total, of different sizes ranging from S to XL, each of them designed with an appreciation for elegant minimalism. Keep an eye out when visiting, though, as this place is full of surprises. One particular surprise is the check-in desk, which some nights transforms into a DJ booth manned by Masaya Kuroki of fashion and music label Maison Kitsuné.",
+      "address": "37-7 Udagawacho, Shibuya-ku, Tōkyō-to 150-0042, Japan",
+      "pageUrl": "www.gansozushi.com",
+      "phoneNumber": "81367127251",
+      "videoUrl": "https://youtu.be/6fnKumF7_cg",
+      "star": 4.5
+    },
+    {
+      "id": 4,
+      "name": "Trunk Hotel",
+      "cityId": 1,
+      "category": "Hotel",
+      "group": "Stay",
+      "latitude": "35.664284",
+      "longitude": "139.704",
+      "images": ["https://wp.getgolo.com/city-guide/wp-content/uploads/2019/10/trunk.jpg"],
+      "description": "One of the newest players in Tokyo’s contemporary hotel scene, Trunk Hotel is much more than just a place to rest. Situated right on the doorstep of Harajuku’s fashion-forward Cat Street and a 10-minute stroll from Shibuya Crossing, it’s in the middle of all the action but tucked far enough off the main thoroughfare to provide some peace and quiet. The hotel features its own Trunk brand convenience store, a sprawling outdoor deck and a lobby which by day is a popular co-working space and by night transforms into a sleek cocktail bar.",
+      "address": "Cat Street, Jingumae 6-chome, Shibuya, Tokyo, 150-0001, Japan",
+      "pageUrl": "trunkhotel.com",
+      "phoneNumber": "81357663210",
+      "videoUrl": "https://youtu.be/6fnKumF7_cg",
+      "star": 4.2
+    },
+    {
+      "id": 5,
+      "name": "Yamachan",
+      "cityId": 1,
+      "category": "Restaurant",
+      "group": "Food & Drink",
+      "latitude": "35.648114",
+      "longitude": "139.745116",
+      "images": [
+        "https://wp.getgolo.com/city-guide/wp-content/uploads/2019/10/photo-1541686242972-cde41c4fd17d.jpeg"
+      ],
+      "description": "Yamachan is an all-you-can-drink premium sake bar located near Shinjuku. For an affordable price you can drink as much sake as you like. You can even take along food and other alcohol with you, or you can leave in the middle of your drinking session and return to order more items. The setting is like that of a classroom, with cheap wooden desks and chairs, and there are no decorative elements. The only objective here is to drink the best sake in the country. The bar is self-service so come prepared to pour your own drink.",
+      "address": "11 17, 5-chome, Shinjuku Shinjuku-ku, Tokyo-to, 160-0022, Japan",
+      "pageUrl": "instagram./getgolo",
+      "phoneNumber": "81352723555",
+      "videoUrl": "https://youtu.be/XQlaFJHU7Lw",
+      "star": 4.9
+    },
+    {
+      "id": 6,
+      "name": "Akaoni",
+      "cityId": 1,
+      "category": "Restaurant",
+      "group": "Food & Drink",
+      "latitude": "35.64264",
+      "longitude": "139.668384",
+      "images": [
+        "https://wp.getgolo.com/city-guide/wp-content/uploads/2019/10/photo-1504416285472-eccf03dd31eb.jpeg"
+      ],
+      "description": "If you are looking for an old-fashioned style sake bar with a modern flair, then Akaoni is your best bet. The translation of Akaoni is ‘red devil’. Beginners must be careful, as they take their sake very seriously here. Akaoni is located just five minutes from Sangen-jaya station, though it is not particularly easy to find. Once you get there, you will be impressed with the warm, down-to-earth atmosphere. Choose from more than 100 varieties of sake with a seasonal option called namazake, which is raw, unpasteurized sake.",
+      "address": "2 Chome-15-3 Sangenjaya, Setagaya City, Tokyo 154-0024, Japan",
+      "pageUrl": "instagram.com/getgolo",
+      "phoneNumber": "81334109918",
+      "videoUrl": "https://youtu.be/Z6Dx-o3vfJY",
+      "star": 4.9
+    },
+    {
+      "id": 7,
+      "name": "Ganso Zushi",
+      "cityId": 1,
+      "category": "Restaurant",
+      "group": "Food & Drink",
+      "latitude": "35.669733",
+      "longitude": "139.688998",
+      "images": [
+        "https://wp.getgolo.com/city-guide/wp-content/uploads/2019/10/sushi_shop_kagurazaka.jpg"
+      ],
+      "description": "Ganso Zushi is a cheap kaiten-zushi (conveyor belt sushi) chain found all around Tokyo. Prices start at just over 100 yen (US$0.90) per plate. English menu available. Nakameguro is a popular yet quiet residential neighborhood filled with unique boutique shops and cafe. The area comes alive with their Cherry Blossom festival along the Meguro River in mid spring and during their summer matsuri (festival).",
+      "address": "5 8, 2-chome, Yoyogi Shibuya-ku, Tokyo-to, 151-0053, Japan",
+      "pageUrl": "www.gansozushi.com",
+      "phoneNumber": "81333783455",
+      "videoUrl": "https://youtu.be/XQlaFJHU7Lw",
+      "star": 4.1
+    },
+    {
+      "id": 8,
+      "name": "Hasegawa Saketan",
+      "cityId": 1,
+      "category": "Bar",
+      "group": "Food & Drink",
+      "latitude": "35.681487",
+      "longitude": "139.767256",
+      "images": [
+        "https://wp.getgolo.com/city-guide/wp-content/uploads/2019/10/14273240104_28dfad60bd_k.jpg"
+      ],
+      "description": "Conveniently located inside Japan Railway Tokyo station, Hasegawa Saketan is rated as one of the best sake bars in Tokyo. The very knowledgeable and friendly bartenders speak English perfectly and are happy to assist and teach visitors about Japan’s signature drink. While waiting for your train, try some of the trendiest sake brands like Juyondai, Tamagata, Dassai and Yamaguchi. The establishment opens as early as 7am for early birds. You can also purchase a bottle of the sake from the shop next door.",
+      "address": "1-chome-9-1 Marunouchi, Chiyoda City, Tokyo-to 100-0005, Japan",
+      "pageUrl": "facebook.com/getgolo",
+      "phoneNumber": "81358750404",
+      "videoUrl": "https://youtu.be/XQlaFJHU7Lw",
+      "star": 3.9
+    },
+    {
+      "id": 9,
+      "name": "Ryusenji (Meguro Fudo)",
+      "cityId": 1,
+      "category": "Sight",
+      "group": "See & Do",
+      "latitude": "35.628222",
+      "longitude": "139.708565",
+      "images": ["https://wp.getgolo.com/city-guide/wp-content/uploads/2019/10/1950011.jpg"],
+      "description": "On Rysenji’s grounds, the famous Meguro Fudo-myo-o (Black Eyed Fudo-Myo-o) statue stands guard, and it’s from this sentinel that the ward takes its name. This was one of five such statues placed protectively around Edo’s borders nearly 400 years ago, each with eyes of a different color. Fudo Myo-o is a revered guardian deity of the Buddhist faith.",
+      "address": "3 Chome-20-26 Shimomeguro, Meguro City, Tokyo 153-0064, Japan",
+      "pageUrl": "facebook.com/getgolo",
+      "phoneNumber": "81337127549",
+      "videoUrl": "https://youtu.be/gqYzEv_AqYM",
+      "star": 4.5
+    },
+    {
+      "id": 10,
+      "name": "Fuji Mount",
+      "cityId": 1,
+      "category": "Sight",
+      "group": "See & Do",
+      "latitude": "35.362799",
+      "longitude": "138.730781",
+      "images": ["https://sugoi.vn/wp-content/uploads/2019/05/Mount-Fuji.jpg"],
+      "description": "Mount Fuji is Japan’s tallest mountain, and the iconic peak has become a symbol of the entire country. From Tokyo, the mountain is hard to spot unless the weather is cooperating, so for the best view make the trek to the mountains yourself and catch a glimpse of Fuji-san from neighboring Mitake-san.",
+      "address": "Kitayama, Fujinomiya, Shizuoka 418-0112, Japan",
+      "pageUrl": "facebook.com/getgolo",
+      "phoneNumber": "81337127549",
+      "videoUrl": "https://youtu.be/yMPJRe2qTlI",
+      "star": 4.8
+    },
+    {
+      "id": 11,
+      "name": "Tsukiji Outer Market",
+      "cityId": 1,
+      "category": "Marker",
+      "group": "See & Do",
+      "latitude": "35.665388",
+      "longitude": "139.770473",
+      "images": [
+        "https://wp.getgolo.com/city-guide/wp-content/uploads/2019/10/photo-1525914695492-7c6ba28846f9.jpeg"
+      ],
+      "description": "Tsukiji Outer Market (築地場外市場, Tsukiji Jōgai Shijō) is a district adjacent to the site of the former Tsukiji Wholesale Market. It consists of a few blocks of wholseale and retail shops, as well as restaurants crowded along narrow lanes. Here you can find fresh and processed seafood and produce alongside food-related goods such as knives. A visit to Tsukiji Outer Market is best combined with a fresh sushi breakfast or lunch at one of the local restaurants. The restaurants are typically open from 5:00 in the morning to around noon or early afternoon. Because most of the fish served and sold at Tsukiji Outer Market is delivered directly from Toyosu Market, this is one of the best places in Tokyo to enjoy fresh seafood.",
+      "address": "Setagaya City, Tokyo, Japan",
+      "pageUrl": "tokyomarket.com",
+      "phoneNumber": "81334392791",
+      "videoUrl": "https://youtu.be/yMPJRe2qTlI",
+      "star": 4.6
+    },
+    {
+      "id": 12,
+      "name": "Nezu Museum",
+      "cityId": 1,
+      "category": "Museum",
+      "group": "See & Do",
+      "latitude": "35.66221",
+      "longitude": "139.717021",
+      "images": ["https://wp.getgolo.com/city-guide/wp-content/uploads/2019/10/nezu_mus_l.jpg"],
+      "description": "Home to the Japanese businessman and philanthropist Nezu Kaichirō , the Nezu Museum houses one of Tokyo’s most comprehensive collections of Japanese and East Asian art, including calligraphy, painting, ceramics, and textiles. After Nezu’s passing, his son turned his late father’s home into a public museum in order to preserve and share the impressive collection. Walk inside and you will also find a small, lush Japanese-style garden complete with tranquil ponds and small Buddha statues.",
+      "address": "6-chome-5-1 Minamiaoyama, Minato City, Tokyo-to 107-0062, Japan",
+      "pageUrl": "tokyomarket.com",
+      "phoneNumber": "81334392791",
+      "videoUrl": "https://youtu.be/gqYzEv_AqYM",
+      "star": 4.6
     }
   ],
   "reviews": [
