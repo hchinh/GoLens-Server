@@ -18,6 +18,7 @@
     "nodemon": "^2.0.14"
   },
   "dependencies": {
-    "json-server": "^0.17.0"
+    "json-server": "^0.17.0",
+    "query-string": "^7.0.1"
   }
 }
