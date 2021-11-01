@@ -3,98 +3,98 @@
     {
       "id": 1,
       "name": "Tokyo",
-      "description": "Tokyo (東京, Tōkyō) is Japan’s capital and the world’s most populous metropolis. It is also one of Japan’s 47 prefectures, consisting of 23 central city wards and multiple cities, towns and villages west of the city center. The Izu and Ogasawara Islands are also part of Tokyo.",
+      "description": "Tokyo (Japanese: 東京, Tokyo, officially the Tokyo Metropolis (Japanese: 東京都, Tokyo-to), is the capital and most populous prefecture of Japan. Located at the head of Tokyo Bay, the prefecture forms part of the Kanto region on the central Pacific coast of Japan's main island of Honshu. Tokyo is the political and economic center of the country, as well as the seat of the Emperor of Japan and the national government. As of 2021, the prefecture has an estimated population of 14.04 million. The Greater Tokyo Area is the most populous metropolitan area in the world, with an estimated 37.468 million residents in 2018.",
       "shortDescription": "The world's best city, found in translation",
-      "image": "https://wp.getgolo.com/wp-content/uploads/2019/10/photo-1490806843957-31f4c9a91c65-1.jpeg",
+      "video": "https://player.vimeo.com/external/600591278.sd.mp4?s=77d70eeb1e053a985cfa9108ecf415451486bc3f&profile_id=164&oauth2_token_id=57447761",
       "latitude": "35.652832",
       "longitude": "139.839478",
       "currency": "Yen",
       "language": "Japanese",
-      "thumbnail": "https://wp.getgolo.com/city-guide/wp-content/uploads/2019/10/photo-1532746063463-7832a51f1ddc-540x740.jpeg"
+      "thumbnail": "https://images.pexels.com/photos/3767862/pexels-photo-3767862.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "id": 2,
       "name": "Paris",
-      "description": "Second City? Not by our count. It’s world-class in so many categories magnificent architecture, stunning museums, brilliant chefs, a massive brewing scene, and so much to do that you’ll never see it all. Scratch the surface in the Loop and on the Gold Coast.",
+      "description": "Paris is the capital and most populous city of France, with an estimated population of 2,175,601 residents as of 2018, in an area of more than 105 square kilometers (41 square miles). Since the 17th century, Paris has been one of Europe's major centres of finance, diplomacy, commerce, fashion, gastronomy, science, and arts. The City of Paris is the centre and seat of government of the region and province of Île-de-France, or Paris Region, which has an estimated population of 12,174,880, or about 18 percent of the population of France as of 2017. The Paris Region had a GDP of €709 billion ($808 billion) in 2017. According to the Economist Intelligence Unit Worldwide Cost of Living Survey in 2018, Paris was the second most expensive city in the world, after Singapore and ahead of Zürich, Hong Kong, Oslo, and Geneva. Another source ranked Paris as most expensive, on par with Singapore and Hong Kong, in 2018.",
       "shortDescription": "The city of love",
-      "image": "https://wp.getgolo.com/wp-content/uploads/2019/09/paris-city.png",
+      "video": "https://player.vimeo.com/external/382722699.sd.mp4?s=03422e8a039e23c85d8f12825d96bbb1ffb106ef&profile_id=139&oauth2_token_id=57447761",
       "latitude": "48.864716",
       "longitude": "2.349014",
       "currency": "Euro",
       "language": "French",
-      "thumbnail": "https://wp.getgolo.com/city-guide/wp-content/uploads/2019/10/photo-1511739001486-6bfe10ce785f-540x740.jpeg"
+      "thumbnail": "https://images.pexels.com/photos/1796722/pexels-photo-1796722.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "id": 3,
       "name": "New York",
-      "description": "To know “The City” like a local might still be the greatest badge of honor for travelers. But take a breath: you won’t be able to cover the countless museums, galleries, restaurants, watering holes—and, yes, $1 pizza slices—all in one visit, but that’s the good news.",
+      "description": "New York, often called New York City to distinguish it from New York State, or NYC for short, is the most populous city in the United States. With a 2020 population of 8,804,190 distributed over 300.46 square miles (778.2 km2), New York City is also the most densely populated major city in the United States. Located at the southern tip of the State of New York, the city is the center of the New York metropolitan area, the largest metropolitan area in the world by urban area. With over 20 million people in its metropolitan statistical area and approximately 23 million in its combined statistical area, it is one of the world's most populous megacities. New York City has been described as the cultural, financial, and media capital of the world, significantly influencing commerce, entertainment, research, technology, education, politics, tourism, art, fashion, and sports, and is the most photographed city in the world. Home to the headquarters of the United Nations, New York is an important center for international diplomacy, and has sometimes been called the capital of the world.",
       "shortDescription": "The entire world in one place",
-      "image": "https://wp.getgolo.com/wp-content/uploads/2019/10/photo-1502104034360-73176bb1e92e.jpeg",
+      "video": "https://player.vimeo.com/external/372109448.sd.mp4?s=3542ed68a2c747de3e7d706af73b7b9655367b3a&profile_id=139&oauth2_token_id=57447761",
       "latitude": "40.73061",
       "longitude": "-73.935242",
       "currency": "Dollar",
       "language": "English",
-      "thumbnail": "https://wp.getgolo.com/city-guide/wp-content/uploads/2019/10/photo-1529974019031-b0cd38fd54fc-540x740.jpeg"
+      "thumbnail": "https://images.pexels.com/photos/290386/pexels-photo-290386.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "id": 4,
       "name": "Los Angeles",
-      "description": "From the Hollywood hills to the Venice Beach boardwalk, Los Angeles is a cinematic city of dreams, where every sunset feels like a scene from a movie. The center of the entertainment world",
+      "description": "Los Angeles, commonly referred to by the initialism L.A., is the largest city in California. With a 2020 population of 3,898,747, it is the second-largest city in the United States. Los Angeles is known for its Mediterranean climate, ethnic and cultural diversity, Hollywood entertainment industry and sprawling metropolitan area.Los Angeles lies in a basin in Southern California, adjacent to the Pacific Ocean. The city, which covers about 469 square miles (1,210 km2), is the seat of Los Angeles County.",
       "shortDescription": "Cinematic city of dreams",
-      "image": "https://wp.getgolo.com/wp-content/uploads/2019/10/photo-1504750702121-4dc5b9a09402.jpeg",
+      "video": "https://player.vimeo.com/external/575977346.sd.mp4?s=e0b72ef4c49f1389f410b41242510468ae030915&profile_id=164&oauth2_token_id=57447761",
       "latitude": "34.052235",
       "longitude": "-118.243683",
       "currency": "Dollar",
       "language": "English",
-      "thumbnail": "https://wp.getgolo.com/city-guide/wp-content/uploads/2019/10/photo-1504750702121-4dc5b9a09402-540x740.jpeg"
+      "thumbnail": "https://images.pexels.com/photos/2695679/pexels-photo-2695679.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "id": 5,
       "name": "London",
-      "description": "London is as much about innovation as tradition; it’s a place that’s impossible to finish discovering, where the promise of something new is always in the air. Across the Thames River, the London Eye observation wheel provides panoramic views of the South Bank cultural complex, and the entire city.",
+      "description": "London is the capital and largest city of England and the United Kingdom. Standing on the River Thames in south-east England at the head of a 50-mile (80 km) estuary down to the North Sea, it has been a major settlement for two millennia. The City of London, its ancient core and financial centre, was founded by the Romans as Londinium and retains boundaries close to its medieval ones. Since the 19th century,[17][18][19] \"London\" has also referred to the metropolis around this core, historically split between the counties of Middlesex, Essex, Surrey, Kent, and Hertfordshire, which largely makes up Greater London, the region governed by the Greater London Authority. The City of Westminster, to the west of the City, has for centuries held the national government and parliament.",
       "shortDescription": "Where the pubs are as old as the monuments",
-      "image": "https://wp.getgolo.com/wp-content/uploads/2019/10/photo-1500380804539-4e1e8c1e7118.jpeg",
+      "video": "https://player.vimeo.com/external/357340919.sd.mp4?s=8f30ef0db27927216b5363ba4c7157112026a6f2&profile_id=139&oauth2_token_id=57447761",
       "latitude": "51.509865",
       "longitude": "-0.1180924",
       "currency": "Pound",
       "language": "English",
-      "thumbnail": "https://wp.getgolo.com/city-guide/wp-content/uploads/2019/10/photo-1454793147212-9e7e57e89a4f-540x740.jpeg"
+      "thumbnail": "https://images.pexels.com/photos/427679/pexels-photo-427679.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "id": 6,
       "name": "Barcelona",
-      "description": "Barcelona is a city full of wonder and beauty, where there’s a pronounced passion for life, food, culture, and of course, architecture. Where else can you surf in the morning, do a master tour of Gaudí’s surreal buildings (the Sagrada Familia and the Parc Güell, to name a couple).",
+      "description": "Barcelona is a city on the coast of northeastern Spain. It is the capital and largest city of the autonomous community of Catalonia, as well as the second most populous municipality of Spain. With a population of 1.6 million within city limits, its urban area extends to numerous neighbouring municipalities within the Province of Barcelona and is home to around 4.8 million people, making it the fifth most populous urban area in the European Union after Paris, the Ruhr area, Madrid, and Milan. It is one of the largest metropolises on the Mediterranean Sea, located on the coast between the mouths of the rivers Llobregat and Besòs, and bounded to the west by the Serra de Collserola mountain range, the tallest peak of which is 512 metres (1,680 feet) high.",
       "shortDescription": "Just don’t confuse it with Spain",
-      "image": "https://wp.getgolo.com/wp-content/uploads/2019/10/photo-1456132311779-ca4ff6130510.jpeg",
+      "video": "https://player.vimeo.com/external/219330643.sd.mp4?s=97c3caed7a9fc5bfd3484ca029d8213d006a1201&profile_id=164&oauth2_token_id=57447761",
       "latitude": "41.390205",
       "longitude": "2.154007",
       "currency": "Euro",
       "language": "Spanish",
-      "thumbnail": "https://wp.getgolo.com/city-guide/wp-content/uploads/2019/10/photo-1528744598421-b7b93e12df15-540x740.jpeg"
+      "thumbnail": "https://images.pexels.com/photos/1388030/pexels-photo-1388030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "id": 7,
       "name": "Bangkok",
-      "description": "It isn’t conventional charm that keeps us coming back to Bangkok. The Thai capital doesn’t have an Old Town like Hanoi, the modernity of Hong Kong, or the density of temples like Siem Reap (though few places in Southeast Asia are as spectacular as Wat Arun at sunrise).",
+      "description": "Bangkok is the capital and most populous city of Thailand, also known by its endonym Krung Thep Maha Nakhon or colloquially Krung Thep. The city occupies 1,568.7 square kilometres (605.7 sq mi) in the Chao Phraya River delta in central Thailand and has an estimated population of 10.539 million as of 2020, 15.3 percent of the country's population. Over fourteen million people (22.2 percent) lived within the surrounding Bangkok Metropolitan Region at the 2010 census, making Bangkok an extreme primate city, dwarfing Thailand's other urban centres in both size and importance to the national economy.",
       "shortDescription": "When in doubt, get a tuk-tuk",
-      "image": "https://wp.getgolo.com/wp-content/uploads/2019/10/photo-1546342279-0a2e8682110e.jpeg",
+      "video": "https://player.vimeo.com/external/561938541.sd.mp4?s=3e78bd25344f0b0f64c310b02cc644e13c0f8d3c&profile_id=164&oauth2_token_id=57447761",
       "latitude": "13.736717",
       "longitude": "100.523186",
       "currency": "Thai Baht",
       "language": "Thai",
-      "thumbnail": "https://wp.getgolo.com/city-guide/wp-content/uploads/2019/10/photo-1546228139-87f5312cac42-540x740.jpeg"
+      "thumbnail": "https://images.pexels.com/photos/1031659/pexels-photo-1031659.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "id": 8,
       "name": "Amsterdam",
-      "description": "Of all the cities in Europe, Amsterdam is one of the most delightful, its bustling markets, magnificent art galleries, olive-green canals and gabled houses famous throughout the world. One of its special charms is its small-city feel with all the key attractions within easy walking distance.",
+      "description": "Amsterdam is the capital and most populous city of the Netherlands with a population of 872,680 within the city proper, 1,558,755 in the urban area and 2,480,394 in the metropolitan area. Found within the province of North Holland, Amsterdam is colloquially referred to as the \"Venice of the North\", due to the large number of canals which form a UNESCO World Heritage Site. Amsterdam was founded at the Amstel, that was dammed to control flooding; the city's name derives from the Amstel dam. Originating as a small fishing village in the late 12th century, Amsterdam became one of the most important ports in the world during the Dutch Golden Age of the 17th century, and became the leading centre for finance and trade.",
       "shortDescription": "The other canal city",
-      "image": "https://wp.getgolo.com/wp-content/uploads/2019/10/pexels-photo-2856012.jpeg",
+      "video": "https://player.vimeo.com/external/567552195.sd.mp4?s=c064e325417d8ad1c184c8025da94592f8261d7e&profile_id=164&oauth2_token_id=57447761",
       "latitude": "52.377956",
       "longitude": "4.89707",
       "currency": "Euro",
       "language": "English",
-      "thumbnail": "https://wp.getgolo.com/city-guide/wp-content/uploads/2019/10/photo-1558551649-e44c8f992010-540x740.jpeg"
+      "thumbnail": "https://images.pexels.com/photos/2031706/pexels-photo-2031706.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     }
   ],
   "attractions": [
